@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-docs",
+  "version": "1.0.0",
+  "description": "Nuxt.js documentation files",
+  "scripts": {
+    "textlint": "textlint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuxt/docs.git"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxt.js",
+    "vue",
+    "micro"
+  ],
+  "author": "Nuxt.js team and contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuxt/docs/issues"
+  },
+  "homepage": "https://github.com/nuxt/docs#readme"
+}
